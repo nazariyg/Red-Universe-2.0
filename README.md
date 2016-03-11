@@ -1,1 +1,1 @@
-An experimental project for the Red Interactive Agency. Because of "Agency" in the name, it's understood that the source code will always stay private. But the presentation PDF is available.
+An experimental project for the [Red Interactive Agency](https://ff0000.com/). Because of "Agency" in the name, it's understood that the source code will always stay private. But the presentation PDF is available.
